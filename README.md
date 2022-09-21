@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sharpening my Developer Skills in all Areas**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **Anything. If I don't know the answer I will find it.**
 
